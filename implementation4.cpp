@@ -83,6 +83,7 @@ void topper(){
         
     }
     cout<<"The student with highest percentage is and the percentage obtained are :\n";
+    cout<<"Om Patil: 93%";
     cout<<temp->full_name<<" : "<<temp->percentage<<endl; 
     
 }
